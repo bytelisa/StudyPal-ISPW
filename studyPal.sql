@@ -1,0 +1,2 @@
+SELECT * FROM studypal.utente;
+
